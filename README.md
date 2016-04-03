@@ -1,5 +1,7 @@
 # Assets Promises
 
+[![npm](https://img.shields.io/npm/v/olvlvl-assets-promises.svg)](https://www.npmjs.com/package/olvlvl-assets-promises)
+
 This package provides [promises](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise) to load stylesheet and JavaScript assets.
 
 Stylesheet and JavaScript assets are loaded using `link` and `script` tags respectively. Your
